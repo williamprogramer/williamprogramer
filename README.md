@@ -13,7 +13,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,cs,dotnet,js,bootstrap,jquery,mysql,sqlite,visualstudio,vscode,windows" />
   </a>
 </p>
-
-
-## <b> Git Activities</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamprogramer&show_icons=true&locale=en&layout=compact&theme=dracula" alt="ovi" /></p>
